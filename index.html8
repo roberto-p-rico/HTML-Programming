@@ -7,7 +7,7 @@
     <meta name="description" content="Store Hours for The Salsa Shack">
     <title>Salsa Shack Hours</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
